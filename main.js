@@ -30,6 +30,8 @@ console.log('-------------------');
 // Třetí příklad - vypiš sestupně čísla od 10 do 0
 console.log('Třetí příklad - sestupná řada 10 - 0');
 
-//TADY NAPIS CYKLUS
+for (let i = 10; i >= 0; i = i - 1) {
+    console.log('Proměnná i = ' + i);
+}
 
 console.log('-------------------');
