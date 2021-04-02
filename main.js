@@ -19,7 +19,9 @@ console.log('-------------------');
 
 console.log('Druhý příklad - rozdíl mezi <= a <');
 
-//TADY NAPIS CYKLUS
+for (let i = 0; i < 10; i = i + 1) {
+    console.log('Proměnná i = ' + i);
+}
 
 console.log('-------------------');
 
