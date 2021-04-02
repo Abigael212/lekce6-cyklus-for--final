@@ -5,7 +5,9 @@
 // První příklad - vypiš vzestupně čísla od 0 do 10
 console.log('První příklad - vzestupná řada 0 - 10');
 
-//TADY NAPIS CYKLUS
+for (let i = 0; i <= 10; i = i + 1) {
+    console.log('Proměnná i = ' + i);
+}
 
 console.log('-------------------');
 
